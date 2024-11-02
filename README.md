@@ -1,3 +1,8 @@
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Suhas Y Sunkad..;AI+and+Data+Science+Student🤖...;Tech+Explorer👨‍💻...;Upskilling+Everyday📚...;Nice+To+Meet+You😊+....&center=true"></a></p>
+
+
 <h1 align="center">Hi 👋, I'm Suhas Y Sunkad</h1>
 <h3 align="center">I am currently pursuing Artificial intelligence and Data Science Engineering in Siddaganga Institute of Technology</h3>
 
