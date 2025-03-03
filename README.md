@@ -1,17 +1,37 @@
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Suhas Y Sunkad..;AI+and+Data+Science+Student🤖...;Tech+Explorer👨‍💻...;Upskilling+Everyday📚...;Nice+To+Meet+You😊+....&center=true"></a></p>
+<!--
+**Suhas Y Sunakd/Suhas Y Sunakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+# `Hello World, I'm Suhas Y Sunkad 👋🏽`
 
+A self-taught `Full-Stack Mobile Developer`. 
+* I develop mobile applications in `Flutter`, `React Native`, `SwiftUI` and `Compose`.
+* I develop web applications in `Next.js` and `Svelte`.
+* I develop backend applications in `Node.js` and `Sprint Boot`.
 
-<h1 align="center">Hi 👋, I'm Suhas Y Sunkad</h1>
-<h3 align="center">I am currently pursuing Artificial intelligence and Data Science Engineering in Siddaganga Institute of Technology</h3>
+### Experience
 
-- 📫 How to reach me **suhas.1si21ad048@gmail.com**
+- Mobile
+  - `Flutter (Dart)` • `⭐️⭐️⭐️⭐️⭐️`
+  - `SwiftUI (Swift)` • `⭐️⭐️⭐️⭐️` `⭐️`
+  - `React Native (JS/TS)` • `⭐️⭐️⭐️⭐️` `⭐️`
+  - `Compose (Kotlin)` • `⭐️⭐️⭐️` `⭐️⭐️`
 
+- Web
+  - `Next.js (JS/TS)` • `⭐️⭐️⭐️⭐️⭐️`
+  - `Svelte (JS/TS)` • `⭐️⭐️⭐️` `⭐️⭐️`
+ 
+- Back End
+  - `Node.js (JS/TS)` • `⭐️⭐️⭐️⭐️⭐️`
+  - `Sprint Boot (Java/Kotlin)` • `⭐️⭐️⭐️` `⭐️⭐️`
 
-<p align="left">
-</p>
+### Projects
+- [`AI Shorts (Byte-sized AI News)`](https://aishorts.club/)
+- [`Togger (Tinder for Shopping)`](https://toggerclub.com)
+- [`Silicon (Swift DSL)`](https://github.com/kabir-asani/Silicon)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+If not engineering software products, I create reels on Instagram ([`@kabirstack`](https://instagram.com/kabirstack))
+
+- 🕸 [`X@KabirAsani`](https://twitter.com/KabirAsani) • [`LinkedIn`](https://www.linkedin.com/in/kabirasani/)
+- ⚡ I hail from [`India (🇮🇳)`](https://en.wikipedia.org/wiki/India) which houses one of the [`7 wonders`](https://en.wikipedia.org/wiki/Taj_Mahal)!
